@@ -1,0 +1,25 @@
+*{
+    background-color:burlywood;
+}
+form{
+    display:list-item;
+    margin: 100px;
+    text-decoration: none;
+    border: 2px solid black;
+    font-weight: bold;
+    
+}
+.search{
+margin-left: 10px;
+}
+.mon{
+margin-left: 10px;
+}    
+.num{
+    margin-left: 10px;
+  
+}
+.home{
+    margin-left: 10px;
+  
+}
